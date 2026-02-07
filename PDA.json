@@ -1,0 +1,202 @@
+[
+  {
+    "question": "When a partner disappoints you, how do you typically respond?",
+    "options": {
+      "A": "Shut down and withdraw emotionally for days",
+      "B": "Explode in anger and bring up past issues",
+      "C": "Calmly express how I feel and seek a constructive conversation",
+      "D": "Pretend everything is fine to avoid conflict"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "How comfortable are you being alone for extended periods?",
+    "options": {
+      "A": "I feel anxious and incomplete without someone",
+      "B": "I tolerate it but constantly look for distractions",
+      "C": "I feel content, fulfilled, and happy in my own company",
+      "D": "I avoid being alone at all costs"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "When someone gets close to you emotionally, what usually happens?",
+    "options": {
+      "A": "I feel excited and open up fully",
+      "B": "I start feeling trapped and pull away",
+      "C": "I enjoy it but only up to a certain point",
+      "D": "I become overly clingy and fearful of losing them"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Do you believe you can trust most people until they prove otherwise?",
+    "options": {
+      "A": "No — I assume everyone will eventually hurt me",
+      "B": "Yes — I give trust freely and maintain it unless broken",
+      "C": "Only after many tests and proofs",
+      "D": "I trust no one completely"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "How do you handle your own stress or strong emotions?",
+    "options": {
+      "A": "I rely heavily on others to calm me down",
+      "B": "I self-soothe and regulate myself effectively",
+      "C": "I suppress them until they explode later",
+      "D": "I distract myself with work, alcohol, etc."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Have you fully processed and moved on from your last serious relationship?",
+    "options": {
+      "A": "Yes — I feel neutral and ready for something new",
+      "B": "Mostly, but I still compare new people to my ex",
+      "C": "Not really — I still feel hurt/angry/residual love",
+      "D": "I avoid thinking about it"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "When a conflict arises, how do you usually approach it?",
+    "options": {
+      "A": "I avoid it and hope it goes away",
+      "B": "I criticize or blame the other person",
+      "C": "I listen, express my view calmly, and seek compromise",
+      "D": "I give the silent treatment"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "How important is personal growth to you right now?",
+    "options": {
+      "A": "Not really — I’m fine as I am",
+      "B": "Very — I actively work on my flaws and self-awareness",
+      "C": "Only when someone points them out",
+      "D": "I think I’m perfect already"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Do you feel emotionally safe enough to share your deepest fears?",
+    "options": {
+      "A": "Yes — with the right person, I can be fully vulnerable",
+      "B": "Rarely — I keep most things private",
+      "C": "Only after years of knowing someone",
+      "D": "Never — vulnerability is weakness"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "What role does compromise play in your view of relationships?",
+    "options": {
+      "A": "I expect the other person to adjust to me",
+      "B": "I’m willing to meet halfway without resentment",
+      "C": "I avoid compromise — it feels like losing",
+      "D": "I always give in to keep the peace"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "How do you feel about long-term commitment in general?",
+    "options": {
+      "A": "Excited — it aligns with my values and goals",
+      "B": "Anxious — it feels like losing freedom",
+      "C": "Neutral — depends on the person",
+      "D": "Terrified — I don’t see myself committing"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "When your partner needs space, how do you react?",
+    "options": {
+      "A": "I panic and feel abandoned",
+      "B": "I respect it and use the time productively",
+      "C": "I get angry and accuse them of not caring",
+      "D": "I give space but resent it silently"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Are you content with your current life without a partner?",
+    "options": {
+      "A": "Yes — a relationship would add to it, not complete it",
+      "B": "No — I feel something major is missing",
+      "C": "Sometimes — it depends on the day",
+      "D": "I’ve never really been single long enough to know"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "How do you view past relationship failures?",
+    "options": {
+      "A": "As learning experiences that helped me grow",
+      "B": "As proof that relationships don’t work",
+      "C": "I blame the other person completely",
+      "D": "I avoid reflecting on them"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Do you communicate your needs clearly without expecting mind-reading?",
+    "options": {
+      "A": "Yes — I express them directly and respectfully",
+      "B": "No — I hint and hope they figure it out",
+      "C": "Rarely — I fear seeming needy",
+      "D": "I don’t even know what my needs are"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "How often do you fear abandonment or rejection?",
+    "options": {
+      "A": "Rarely — I feel secure in myself",
+      "B": "Frequently — it affects my behavior a lot",
+      "C": "Only in new relationships",
+      "D": "Constantly — it’s always in the background"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Can you maintain your identity and independence in a close relationship?",
+    "options": {
+      "A": "Yes — I stay true to myself while being connected",
+      "B": "No — I tend to lose myself in partners",
+      "C": "Sometimes — it depends on the person",
+      "D": "I prefer to merge completely"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "How do you respond to constructive criticism from a partner?",
+    "options": {
+      "A": "I listen openly and consider it seriously",
+      "B": "I get defensive and counter-attack",
+      "C": "I ignore it or change the subject",
+      "D": "I shut down emotionally"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Do you have a clear vision of what you want in a long-term partner?",
+    "options": {
+      "A": "Yes — based on values, not just surface traits",
+      "B": "No — I’ll know when I feel it",
+      "C": "Only physical/emotional attraction matters",
+      "D": "I change my mind constantly"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Are you ready to invest consistent effort into building and maintaining a relationship?",
+    "options": {
+      "A": "Yes — I see it as a worthwhile lifelong project",
+      "B": "Only if it’s easy and drama-free",
+      "C": "I prefer low-effort connections",
+      "D": "I’m not sure — relationships feel exhausting"
+    },
+    "correct": "A"
+  }
+]

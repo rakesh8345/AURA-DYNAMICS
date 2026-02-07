@@ -1,0 +1,341 @@
+[
+    {"question": "What principle explains why showing interest often makes others more interested in you?",
+     "options": ["Halo effect", "Reciprocity", "Social proof", "Scarcity"], "correct": 1,
+     "explanation": "Reciprocity: people tend to return the attention they receive."},
+
+    {"question": "Which is the strongest nonverbal signal of confidence?",
+     "options": ["Loud voice", "Steady eye contact", "Crossed arms", "Fidgeting"], "correct": 1,
+     "explanation": "Steady (not staring) eye contact is a powerful confidence cue."},
+
+    {"question": "People are often more attracted to those who appear slightly:",
+     "options": ["Always available", "Mysterious/selective", "Overly agreeable", "Extremely wealthy"], "correct": 1,
+     "explanation": "Moderate mystery can increase interest via scarcity principle."},
+
+    {"question": "What is the healthiest way to attract attention?",
+     "options": ["Playing hard to get constantly", "Authenticity + appropriate interest", "Jealousy tactics", "Spamming messages"], "correct": 1,
+     "explanation": "Authenticity creates sustainable attraction."},
+
+    {"question": "Mirroring body language primarily helps build:",
+     "options": ["Tension", "Rapport", "Dominance", "Mystery"], "correct": 1,
+     "explanation": "Subtle mirroring creates subconscious similarity and comfort."},
+
+    {"question": "The halo effect refers to:",
+     "options": ["One trait positively influencing overall perception", "Judging books by covers", "Attractive people always being kind", "Both A and C"], "correct": 0,
+     "explanation": "One positive trait colors the entire impression."},
+
+    {"question": "Which is a major red flag in social interactions?",
+     "options": ["Ignoring boundaries", "Being slightly nervous", "Asking questions", "Laughing at jokes"], "correct": 0,
+     "explanation": "Ignoring boundaries shows disrespect."},
+
+    {"question": "What is the main danger of negging as a flirting tactic?",
+     "options": ["It builds instant attraction", "It damages self-esteem and trust", "It always works long-term", "It is scientifically proven"], "correct": 1,
+     "explanation": "Negging often creates resentment rather than genuine interest."},
+
+    {"question": "Which behavior most strongly signals emotional availability?",
+     "options": ["Constant joking", "Sharing feelings appropriately", "Avoiding vulnerability", "Talking only about yourself"], "correct": 1,
+     "explanation": "Appropriate vulnerability fosters deeper connection."},
+
+    {"question": "What is the 'mere exposure effect' in attraction?",
+     "options": ["People like what's rare", "Familiarity increases liking", "Opposites attract", "First impressions last forever"], "correct": 1,
+     "explanation": "Repeated exposure generally increases liking."},
+
+    {"question": "Over-complimenting someone can reduce attraction due to:",
+     "options": ["Scarcity principle", "Reactance", "Halo effect", "Priming"], "correct": 1,
+     "explanation": "Too many compliments can feel manipulative or lose value."},
+
+    {"question": "Which is usually more attractive: perfection or authenticity?",
+     "options": ["Perfection", "Authenticity", "Both equally", "Depends on wealth"], "correct": 1,
+     "explanation": "Authenticity tends to create stronger, longer-lasting attraction."},
+
+    {"question": "High emotional intelligence primarily helps you:",
+     "options": ["Dominate conversations", "Read and respond to emotions", "Always win arguments", "Avoid all conflict"], "correct": 1,
+     "explanation": "EQ helps navigate feelings effectively."},
+
+    {"question": "Playing too hard to get often leads to:",
+     "options": ["Stronger attraction", "Frustration and disinterest", "Instant commitment", "Better communication"], "correct": 1,
+     "explanation": "Excessive unavailability can cause people to give up."},
+
+    {"question": "Which type of humor tends to build the most rapport?",
+     "options": ["Sarcastic/teasing", "Self-deprecating", "Dark humor", "Mean-spirited"], "correct": 1,
+     "explanation": "Light self-deprecating humor signals confidence and relatability."},
+
+    {"question": "The primary purpose of active listening is:",
+     "options": ["To win the conversation", "To make the other person feel valued", "To show superiority", "To gather gossip"], "correct": 1,
+     "explanation": "It builds connection through validation."},
+
+    {"question": "The 'foot-in-the-door' technique relies on:",
+     "options": ["Consistency principle", "Scarcity", "Authority", "Liking"], "correct": 0,
+     "explanation": "Small commitments increase likelihood of larger ones."},
+
+    {"question": "Which body language signal most strongly indicates disinterest?",
+     "options": ["Leaning in", "Feet pointing away", "Open palms", "Nodding"], "correct": 1,
+     "explanation": "Feet direction often reveals true interest level."},
+
+    {"question": "A common sign of genuine interest is:",
+     "options": ["Short replies", "Asking follow-up questions", "Changing the topic", "Looking at phone"], "correct": 1,
+     "explanation": "Curiosity through questions shows engagement."},
+
+    {"question": "What does 'preselection' refer to in social dynamics?",
+     "options": ["Being chosen first", "Being seen as desirable by others", "Selecting your partner", "Pre-judging someone"], "correct": 1,
+     "explanation": "Social proof increases perceived value when others show interest."},
+
+    {"question": "Which is a stronger attractor in most cases?",
+     "options": ["Physical looks alone", "Personality + emotional connection", "Money", "Status symbols"], "correct": 1,
+     "explanation": "Emotional connection usually outweighs superficial traits long-term."},
+
+    {"question": "What is the main risk of love bombing?",
+     "options": ["It creates instant trust", "It can be manipulative and lead to idealization-devaluation cycle", "It always leads to marriage", "It is harmless"], "correct": 1,
+     "explanation": "Overwhelming affection early on is often followed by withdrawal."},
+
+    {"question": "The best way to handle rejection is:",
+     "options": ["To argue why they are wrong", "To accept it gracefully", "To seek revenge", "To pretend it didn't happen"], "correct": 1,
+     "explanation": "Graceful acceptance preserves dignity and self-respect."},
+
+    {"question": "Which texting behavior often lowers attraction?",
+     "options": ["Responding promptly", "Double-texting without reply", "Using humor", "Asking questions"], "correct": 1,
+     "explanation": "Neediness signals desperation."},
+
+    {"question": "What is 'dread game' in dating contexts?",
+     "options": ["Making someone afraid", "Creating mild jealousy to increase interest", "Being direct", "Playing games with emotions"], "correct": 1,
+     "explanation": "Artificial scarcity through perceived competition (often manipulative)."},
+
+    {"question": "The most attractive kind of confidence is:",
+     "options": ["Arrogance", "Quiet self-assurance", "Loud bragging", "False modesty"], "correct": 1,
+     "explanation": "Quiet confidence feels authentic and secure."},
+
+    {"question": "Which is a healthy boundary example?",
+     "options": ["Demanding constant texting", "Saying no to uncomfortable requests", "Controlling partner's friends", "Checking phone"], "correct": 1,
+     "explanation": "Clear communication of personal limits builds respect."},
+
+    {"question": "What does the 'push-pull' dynamic sometimes create?",
+     "options": ["Stable relationships", "Emotional rollercoaster and addiction-like attachment", "Deep trust", "Boredom"], "correct": 1,
+     "explanation": "Alternating hot/cold behavior can create uncertainty and craving."},
+
+    {"question": "People tend to value more what is:",
+     "options": ["Freely given", "Hard to get", "Given immediately", "Cheap"], "correct": 1,
+     "explanation": "Scarcity increases perceived value."},
+
+    {"question": "Which is a sign of low emotional maturity?",
+     "options": ["Taking accountability", "Blaming others for feelings", "Apologizing when wrong", "Communicating needs"], "correct": 1,
+     "explanation": "Externalizing blame avoids self-reflection."},
+
+    {"question": "The strongest long-term attractor is usually:",
+     "options": ["Physical appearance", "Shared values & emotional safety", "Financial status", "Social media following"], "correct": 1,
+     "explanation": "Emotional security and compatibility sustain relationships."},
+
+    {"question": "What is 'breadcrumbing'?",
+     "options": ["Giving just enough attention to keep someone interested", "Being very generous", "Ending contact completely", "Planning dates"], "correct": 0,
+     "explanation": "Minimal effort to maintain hope without commitment."},
+
+    {"question": "Which compliment style is most effective?",
+     "options": ["Generic appearance-based", "Specific & personality/effort-based", "Over-the-top", "Backhanded"], "correct": 1,
+     "explanation": "Specific praise feels more genuine and meaningful."},
+
+    {"question": "What is the best response to someone pulling away?",
+     "options": ["Chase harder", "Give space and match energy", "Ultimatum", "Ignore them completely"], "correct": 1,
+     "explanation": "Mirroring energy prevents one-sided pursuit."},
+
+    {"question": "Which is more attractive in a partner?",
+     "options": ["Always agreeing", "Respectful disagreement", "Never having opinions", "Constant criticism"], "correct": 1,
+     "explanation": "Healthy disagreement shows individuality and respect."},
+
+    {"question": "The 'door-in-the-face' technique relies on:",
+     "options": ["Contrast principle", "Reciprocity", "Scarcity", "Authority"], "correct": 0,
+     "explanation": "Large request followed by smaller one increases compliance."},
+
+    {"question": "Which is a common sign of anxious attachment?",
+     "options": ["Needing constant reassurance", "Being very independent", "Avoiding intimacy", "Trusting easily"], "correct": 0,
+     "explanation": "Fear of abandonment leads to clinginess."},
+
+    {"question": "What is the main benefit of vulnerability?",
+     "options": ["Weakness", "Deeper emotional connection", "Manipulation", "Avoiding conflict"], "correct": 1,
+     "explanation": "Appropriate vulnerability builds trust."},
+
+    {"question": "Which behavior signals high value?",
+     "options": ["Seeking approval", "Having strong personal standards", "Being overly available", "Bragging"], "correct": 1,
+     "explanation": "Self-respect and boundaries communicate value."},
+
+    {"question": "What often happens when someone feels 'too easy'?",
+     "options": ["Increased respect", "Decreased perceived value", "Instant commitment", "More effort"], "correct": 1,
+     "explanation": "Too much availability can reduce desire."},
+
+    {"question": "Which is a healthy flirting style?",
+     "options": ["Teasing that hurts", "Playful & respectful banter", "Constant sexual comments", "Ignoring boundaries"], "correct": 1,
+     "explanation": "Light, mutual teasing builds chemistry."},
+
+    {"question": "The best way to build sexual tension is:",
+     "options": ["Rushing to physical", "Gradual escalation + anticipation", "Talking about sex constantly", "Avoiding touch"], "correct": 1,
+     "explanation": "Slow build-up creates stronger desire."},
+
+    {"question": "Which is a sign of secure attachment?",
+     "options": ["Jealousy over everything", "Comfort with intimacy & independence", "Avoiding commitment", "Clinginess"], "correct": 1,
+     "explanation": "Balance between closeness and autonomy."},
+
+    {"question": "What is 'ghosting' most often a sign of?",
+     "options": ["Maturity", "Poor communication skills", "Strong interest", "Respect"], "correct": 1,
+     "explanation": "Avoiding direct rejection is immature."},
+
+    {"question": "Which mindset attracts better partners?",
+     "options": ["I need someone to complete me", "I am whole and open to connection", "Everyone is the same", "I deserve the best"], "correct": 1,
+     "explanation": "Self-completeness attracts healthier dynamics."},
+
+    {"question": "What is the primary role of teasing in flirting?",
+     "options": ["To insult", "To create playful tension", "To show disinterest", "To dominate"], "correct": 1,
+     "explanation": "Playful teasing builds fun chemistry."},
+
+    {"question": "Which is more important on a first date?",
+     "options": ["Impressing them", "Being curious about them", "Talking about yourself", "Looking perfect"], "correct": 1,
+     "explanation": "Genuine interest creates connection."},
+
+    {"question": "What does 'shit test' refer to in dating?",
+     "options": ["A literal test", "A challenge to see if you hold frame", "A compliment", "A breakup sign"], "correct": 1,
+     "explanation": "Unconscious test of confidence and congruence."},
+
+    {"question": "Which response to a shit test is usually best?",
+     "options": ["Defensive argument", "Agree & amplify or ignore", "Insult back", "Beg for approval"], "correct": 1,
+     "explanation": "Non-reactive humor preserves frame."},
+
+    {"question": "What is the biggest attraction killer?",
+     "options": ["Neediness", "Being too nice", "Being too confident", "Having money"], "correct": 0,
+     "explanation": "Neediness signals low value and insecurity."},
+
+    {"question": "Which is a form of covert contract?",
+     "options": ["Being kind to get something", "Direct communication", "Honest expectations", "Mutual respect"], "correct": 0,
+     "explanation": "Hidden expectations lead to resentment."},
+
+    {"question": "The best way to increase attraction after a mistake is:",
+     "options": ["Over-apologizing", "Owning it briefly + moving on", "Blaming them", "Ignoring it"], "correct": 1,
+     "explanation": "Accountability without groveling shows strength."},
+
+    {"question": "What is 'outcome independence'?",
+     "options": ["Not caring at all", "Being emotionally detached from any specific result", "Being desperate", "Controlling outcome"], "correct": 1,
+     "explanation": "Detachment from outcome reduces neediness."},
+
+    {"question": "Which is usually more attractive?",
+     "options": ["Talking about exes a lot", "Minimal ex-talk", "Constant ex-comparison", "Badmouthing ex"], "correct": 1,
+     "explanation": "Emotional closure signals maturity."},
+
+    {"question": "What is a sign of high-value behavior?",
+     "options": ["Chasing", "Having a full life outside dating", "Being always available", "Seeking validation"], "correct": 1,
+     "explanation": "A fulfilling independent life is attractive."},
+
+    {"question": "Which mindset helps with rejection?",
+     "options": ["Rejection is personal", "Rejection is redirection", "Rejection means I'm worthless", "Rejection is failure"], "correct": 1,
+     "explanation": "Reframing reduces emotional impact."},
+
+    {"question": "What is 'qualification' in flirting?",
+     "options": ["Qualifying them", "Making them qualify themselves to you", "Being desperate", "Ignoring them"], "correct": 1,
+     "explanation": "Subtly making them invest increases interest."},
+
+    {"question": "Which is a better first message?",
+     "options": ["Hey", "Comment on something specific in profile", "Generic compliment", "Sexual opener"], "correct": 1,
+     "explanation": "Personalized messages stand out."},
+
+    {"question": "What does strong frame mean?",
+     "options": ["Being stubborn", "Holding your reality without being reactive", "Agreeing with everything", "Controlling others"], "correct": 1,
+     "explanation": "Non-reactivity preserves attraction."},
+
+    {"question": "Which is a common mistake after a good date?",
+     "options": ["Texting too soon", "Texting the next day normally", "Double-texting immediately", "Not texting at all"], "correct": 2,
+     "explanation": "Over-eagerness can kill momentum."},
+
+    {"question": "What is 'kino' short for?",
+     "options": ["Kinesthetic escalation", "Kindness", "Kissing", "Knowledge"], "correct": 0,
+     "explanation": "Gradual touch escalation."},
+
+    {"question": "The best time to escalate physically is when:",
+     "options": ["Immediately", "Tension & comfort are both high", "After one drink", "Never"], "correct": 1,
+     "explanation": "Proper calibration prevents discomfort."},
+
+    {"question": "Which is a sign of interest?",
+     "options": ["Playing with hair", "Turning body away", "Short answers", "One-word replies"], "correct": 0,
+     "explanation": "Preening behaviors often indicate attraction."},
+
+    {"question": "What is the main purpose of banter?",
+     "options": ["To insult", "To create fun emotional spikes", "To argue", "To lecture"], "correct": 1,
+     "explanation": "Emotional variety keeps interaction alive."},
+
+    {"question": "Which is more attractive long-term?",
+     "options": ["Perfect looks", "Emotional stability + kindness", "High income", "Fame"], "correct": 1,
+     "explanation": "Stability and warmth sustain relationships."},
+
+    {"question": "What is 'oneitis'?",
+     "options": ["Liking many people", "Obsession with one person", "Being single", "Healthy love"], "correct": 1,
+     "explanation": "Fixation on one person limits options."},
+
+    {"question": "The healthiest dating abundance mindset is:",
+     "options": ["Everyone wants me", "I have options and standards", "I need to settle", "No one likes me"], "correct": 1,
+     "explanation": "Self-worth + realistic options."},
+
+    {"question": "Which is a red flag?",
+     "options": ["Consistent communication", "Hot & cold behavior", "Mutual respect", "Shared interests"], "correct": 1,
+     "explanation": "Inconsistency creates emotional instability."},
+
+    {"question": "What is the best reaction to jealousy?",
+     "options": ["Punish them", "Communicate calmly", "Make them more jealous", "Ignore it"], "correct": 1,
+     "explanation": "Open communication prevents escalation."},
+
+    {"question": "Which is more powerful?",
+     "options": ["Words", "Non-verbal communication", "Money", "Status"], "correct": 1,
+     "explanation": "Body language often trumps verbal content."},
+
+    {"question": "What is a sign of low confidence?",
+     "options": ["Admitting mistakes", "Seeking constant validation", "Setting boundaries", "Being direct"], "correct": 1,
+     "explanation": "External validation dependence."},
+
+    {"question": "The best way to create chemistry is:",
+     "options": ["Being boring", "Emotional spikes + comfort", "Being predictable", "Avoiding touch"], "correct": 1,
+     "explanation": "Balance of excitement and safety."},
+
+    {"question": "Which is a form of self-sabotage?",
+     "options": ["High standards", "Settling out of fear", "Having options", "Self-improvement"], "correct": 1,
+     "explanation": "Fear-based decisions lower quality."},
+
+    {"question": "What is 'last minute resistance' often a sign of?",
+     "options": ["Disinterest", "Last-minute anxiety or testing comfort", "Always manipulation", "No attraction"], "correct": 1,
+     "explanation": "Often hesitation rather than rejection."},
+
+    {"question": "Which is more attractive?",
+     "options": ["Trying to impress", "Being slightly challenging", "Agreeing with everything", "Being needy"], "correct": 1,
+     "explanation": "Mild challenge maintains interest."},
+
+    {"question": "What is the key to good conversation?",
+     "options": ["Talking a lot", "Balance of talking & listening", "Only asking questions", "Only sharing stories"], "correct": 1,
+     "explanation": "Mutual sharing creates connection."},
+
+    {"question": "Which is a better date activity?",
+     "options": ["Movie theater", "Interactive & conversation-friendly activity", "Very expensive dinner", "Staying home"], "correct": 1,
+     "explanation": "Shared experience builds stronger bond."},
+
+    {"question": "What does 'holding frame' mean?",
+     "options": ["Being physically strong", "Not being emotionally reactive", "Controlling others", "Being silent"], "correct": 1,
+     "explanation": "Maintaining emotional stability."},
+
+    {"question": "Which is a sign of manipulation?",
+     "options": ["Honest communication", "Guilt-tripping", "Setting boundaries", "Expressing needs"], "correct": 1,
+     "explanation": "Using guilt to control is unhealthy."},
+
+    {"question": "What is more important than looks long-term?",
+     "options": ["Money", "Character & compatibility", "Social status", "Fame"], "correct": 1,
+     "explanation": "Inner qualities sustain relationships."},
+
+    {"question": "The best response to a compliment is:",
+     "options": ["Deny it", "Thank you + small return compliment", "Brag more", "Ignore it"], "correct": 1,
+     "explanation": "Graceful acceptance shows confidence."},
+
+    {"question": "What is 'qualification' in dating?",
+     "options": ["Qualifying them to you", "Qualifying yourself", "Ignoring them", "Being desperate"], "correct": 0,
+     "explanation": "Getting them to prove their value."},
+
+    {"question": "Which is a healthy green flag?",
+     "options": ["Consistent actions match words", "Hot & cold behavior", "Love bombing", "Controlling tendencies"], "correct": 0,
+     "explanation": "Congruence builds trust."},
+
+    {"question": "What is the main purpose of teasing?",
+     "options": ["To hurt feelings", "To create playful tension", "To dominate", "To show disinterest"], "correct": 1,
+     "explanation": "Playful challenge builds attraction."},
+
+    {"question": "Which is more important?",
+     "options": ["Looks", "How you make them feel", "Wealth", "Status"], "correct": 1,
+     "explanation": "Emotional experience drives attraction."}
+]
